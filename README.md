@@ -80,12 +80,12 @@ Contributions are welcome! To contribute, please follow these steps:
 
 2. Create a new branch: 
   ```bash
-  git checkout -b minha-nova-feature
+  git checkout -b my-new-feature
   ```
 
 3. Make your changes and commit: 
   ```bash
-  git commit -m "Minha nova feature"
+  git commit -m "My new feature"
   ```
   
 4. Send a pull request.
