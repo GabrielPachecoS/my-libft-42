@@ -64,7 +64,7 @@ To use the library, include the libft.h header in your files:
       return (0);
   }
   ´´´
-  
+
 ## Features
 
 - **Character/Integer**: ft_isdigit, ft_isalpha, ft_isalnum, ft_isascii, ft_isprint, ft_toupper, ft_tolower, ft_putchar_fd, ft_putnbr_fd, ft_itoa
