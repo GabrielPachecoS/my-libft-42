@@ -7,7 +7,7 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/GabrielPachecoS/my-libft-42.git
+   git clone https://github.com/GabrielPachecoS/my-libft-42.git
    ```
 
 2. Navigate to the project directory:
@@ -63,7 +63,7 @@ To use the library, include the libft.h header in your files:
       printf ("O tamanho da string é: %d\n", len);
       return (0);
   }
-  ´´´
+  ```
 
 ## Features
 
@@ -86,6 +86,6 @@ Contributions are welcome! To contribute, please follow these steps:
 3. Make your changes and commit: 
   ```bash
   git commit -m "Minha nova feature"
-  ´´´
+  ```
   
 4. Send a pull request.
