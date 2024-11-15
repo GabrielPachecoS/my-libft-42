@@ -53,7 +53,6 @@ To use the library, include the libft.h header in your files:
   ```bash
   #include "libft.h"
   #include <stdio.h>
-
   int	main(void)
   {
       char	*str;
