@@ -20,7 +20,6 @@ To install and set up the project, follow these steps:
    make
    ```
 
-## Usage
 After installing, you can use the following commands to manage your library:
 
 - **Build the library**: 
@@ -48,7 +47,7 @@ After installing, you can use the following commands to manage your library:
   make bonus
   ```
   
-## Utilização
+## Usage
 To use the library, include the libft.h header in your files:
   ```bash
   #include "libft.h"
