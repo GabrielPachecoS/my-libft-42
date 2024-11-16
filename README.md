@@ -67,7 +67,7 @@ To use the library, include the libft.h header in your files:
 
 ## Features
 
-- **Character/Integer**:
+### Character/Integer:
  - ft_isdigit - Checks if the character is a digit (0-9).
  - ft_isalpha - Checks if the character is an uppercase or lowercase letter.
  - ft_isalnum - Checks if the character is alphanumeric.
@@ -78,7 +78,7 @@ To use the library, include the libft.h header in your files:
  - ft_putchar_fd - Prints the specified character to the file descriptor and returns the number of bytes written.
  - ft_putnbr_fd - Converts and prints the number.
  - ft_itoa - Converts an integer to a char *.
-- **Strings**:
+### Strings:
  - ft_strlen - Receives a string and returns its length.
  - ft_strlcpy - Copies a string based on its total buffer size and ensures a '\0' at the end of the destination.
  - ft_strlcat - Concatenates two strings based on the total buffer size.
@@ -96,7 +96,7 @@ To use the library, include the libft.h header in your files:
  - ft_strjoin - Joins two strings into one.
  - ft_strtrim - Trims specified characters from the beginning and end of a string.
  - ft_split - Splits a string into smaller strings based on a delimiter.	
- - **Memory**:
+### Memory:
  - ft_memset - Fills the first n bytes pointed to by s with the character c.
  - ft_bzero - Fills the first n bytes pointed to by s with the value 0 (or '\0').
  - ft_memcpy - Copies a block of memory.
@@ -104,7 +104,7 @@ To use the library, include the libft.h header in your files:
  - ft_memchr - Searches for a byte in a block of memory.
  - ft_memcmp - Compares two blocks of memory.
  - ft_calloc - Allocates memory and initializes each byte to '\0'.
-- **Lists**:
+### Lists:
  - ft_lstnew_bonus - Creates a new node with the received content.
  - ft_lstadd_front_bonus - Adds a node at the beginning of the list.
  - ft_lstsize_bonus - Checks and returns the number of nodes in the list.
