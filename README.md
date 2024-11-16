@@ -64,7 +64,7 @@ To use the library, include the libft.h header in your files:
   }
   ```
 
-## Features
+## Application
 
 ### Character/Integer:
  - ft_isdigit - Checks if the character is a digit (0-9).
